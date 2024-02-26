@@ -1,0 +1,5 @@
+comandos 
+php artisan make:controller "Nome do controller" --resource
+
+o html só reconhece dois métodos get/post
+route::get()
